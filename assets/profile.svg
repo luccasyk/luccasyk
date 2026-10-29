@@ -41,23 +41,23 @@
   
       <text x="34" y="108.0" class="art fadein" style="animation-delay:0.0s" textLength="285.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                  </text>
       <text x="34" y="123.0" class="art fadein" style="animation-delay:0.045s" textLength="285.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                  </text>
-      <text x="34" y="138.0" class="art fadein" style="animation-delay:0.09s" textLength="285.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">              .=+-=*+             </text>
-      <text x="34" y="153.0" class="art fadein" style="animation-delay:0.135s" textLength="285.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">            .-=+=:=.##+           </text>
-      <text x="34" y="168.0" class="art fadein" style="animation-delay:0.18s" textLength="285.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">             -=:.+*.*++           </text>
-      <text x="34" y="183.0" class="art fadein" style="animation-delay:0.225s" textLength="285.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">            + **==.--=.*          </text>
-      <text x="34" y="198.0" class="art fadein" style="animation-delay:0.27s" textLength="285.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">            *-:.-.=+**+           </text>
-      <text x="34" y="213.0" class="art fadein" style="animation-delay:0.315s" textLength="285.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">             :-=+*=:#-            </text>
+      <text x="34" y="138.0" class="art fadein" style="animation-delay:0.09s" textLength="285.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">              +..::*#             </text>
+      <text x="34" y="153.0" class="art fadein" style="animation-delay:0.135s" textLength="285.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">            =#*:#+.=*==           </text>
+      <text x="34" y="168.0" class="art fadein" style="animation-delay:0.18s" textLength="285.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">            *===::-::#-           </text>
+      <text x="34" y="183.0" class="art fadein" style="animation-delay:0.225s" textLength="285.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">           :#:  =+-:=. .          </text>
+      <text x="34" y="198.0" class="art fadein" style="animation-delay:0.27s" textLength="285.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">            =+#-.- *-*+           </text>
+      <text x="34" y="213.0" class="art fadein" style="animation-delay:0.315s" textLength="285.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">             .==++* -:            </text>
       <text x="34" y="228.0" class="art fadein" style="animation-delay:0.36s" textLength="285.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                  </text>
       <text x="34" y="243.0" class="art fadein" style="animation-delay:0.405s" textLength="285.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                  </text>
-      <text x="34" y="258.0" class="art fadein" style="animation-delay:0.45s" textLength="285.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">      **:=.+.---. ##*:*-.::==     </text>
-      <text x="34" y="273.0" class="art fadein" style="animation-delay:0.495s" textLength="285.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    .- *. -=+# . =#+=*.#:#+ +-+   </text>
-      <text x="34" y="288.0" class="art fadein" style="animation-delay:0.54s" textLength="285.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">   **-.-. #- +=:=.+:.*-=#:-.-***  </text>
-      <text x="34" y="303.0" class="art fadein" style="animation-delay:0.585s" textLength="285.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">   ++ ..: *.#-.#.*:==+-*:*-=:= #  </text>
-      <text x="34" y="318.0" class="art fadein" style="animation-delay:0.63s" textLength="285.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  =:+##+.#-+###*-*.==## *.*:#+:.+ </text>
-      <text x="34" y="333.0" class="art fadein" style="animation-delay:0.675s" textLength="285.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  +.+:*-.**=*:--#=.#+=:.=#.-*-+=- </text>
-      <text x="34" y="348.0" class="art fadein" style="animation-delay:0.72s" textLength="285.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  =+-+# . #+..+=.#+-+-:-.:.**:#-  </text>
-      <text x="34" y="363.0" class="art fadein" style="animation-delay:0.765s" textLength="285.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">   .== -: #* :=:*.:=-=###=.-.+:=  </text>
-      <text x="34" y="378.0" class="art fadein" style="animation-delay:0.81s" textLength="285.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    -* -:#+#.**-*=+-#*#*::*.#=-   </text>
+      <text x="34" y="258.0" class="art fadein" style="animation-delay:0.45s" textLength="285.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">      :::#:-:.:.=#.+.+--: #*=     </text>
+      <text x="34" y="273.0" class="art fadein" style="animation-delay:0.495s" textLength="285.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    ###.::-=:=-.-+:=: #** -=:+-   </text>
+      <text x="34" y="288.0" class="art fadein" style="animation-delay:0.54s" textLength="285.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">   .#+=:.:*+#= ==+.=+:.=##=: **-  </text>
+      <text x="34" y="303.0" class="art fadein" style="animation-delay:0.585s" textLength="285.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">   ::-=*.+-=#=:..*=.-*=:*..*.*:.  </text>
+      <text x="34" y="318.0" class="art fadein" style="animation-delay:0.63s" textLength="285.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  :#-#-=-##*.:=.+.#.*+:-:+=-*-#*  </text>
+      <text x="34" y="333.0" class="art fadein" style="animation-delay:0.675s" textLength="285.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  +.-##... #*-=##+.-=-+*:+:= - :* </text>
+      <text x="34" y="348.0" class="art fadein" style="animation-delay:0.72s" textLength="285.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  -+.*=+.*** #-=: +:=.:#*:#*#=-+  </text>
+      <text x="34" y="363.0" class="art fadein" style="animation-delay:0.765s" textLength="285.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    +.*:-=*=:*--:-:.==:.*+-==.-=  </text>
+      <text x="34" y="378.0" class="art fadein" style="animation-delay:0.81s" textLength="285.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    ##=* * #: -#**  =-+-:#..**.   </text>
 
   <text x="365.6" y="60" class="header">luccasyk@github</text>
   <line x1="365.6" y1="70" x2="685.2" y2="70" class="rule" />
@@ -70,7 +70,7 @@
       <text x="365.6" y="224" class="fieldline typewriter" style="animation-delay:0.95s"><tspan class="label">Repositories:</tspan> <tspan class="value">1</tspan></text>
       <text x="365.6" y="248" class="fieldline typewriter" style="animation-delay:1.04s"><tspan class="label">Stars:</tspan> <tspan class="value">0</tspan></text>
       <text x="365.6" y="272" class="fieldline typewriter" style="animation-delay:1.13s"><tspan class="label">Followers:</tspan> <tspan class="value">0</tspan></text>
-      <text x="365.6" y="296" class="fieldline typewriter" style="animation-delay:1.22s"><tspan class="label">Contributions:</tspan> <tspan class="value">5 (last year)</tspan></text>
+      <text x="365.6" y="296" class="fieldline typewriter" style="animation-delay:1.22s"><tspan class="label">Contributions:</tspan> <tspan class="value">6 (last year)</tspan></text>
       <text x="365.6" y="320" class="fieldline typewriter" style="animation-delay:1.31s"><tspan class="label">Languages:</tspan> <tspan class="value">Python</tspan></text>
   
       <rect x="365.6" y="358.0" width="20" height="20" rx="3" fill="#2b2f36" class="swatch" style="animation-delay:1.40s" />
