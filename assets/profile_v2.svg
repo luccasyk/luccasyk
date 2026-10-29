@@ -1,16 +1,16 @@
 <svg width="760" height="490" viewBox="0 0 760 490" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
-      .art { font-family: 'Courier New', monospace; font-size: 12.3px; fill: #e8384f; white-space: pre; }
-      .header { font-family: 'Courier New', monospace; font-size: 18px; font-weight: bold; fill: #e8384f; }
-      .rule { stroke: #e8384f; stroke-width: 1.4; opacity: 0.85; }
+      .art { font-family: 'Courier New', monospace; font-size: 12.3px; fill: #ff1f3d; white-space: pre; }
+      .header { font-family: 'Courier New', monospace; font-size: 18px; font-weight: bold; fill: #ff1f3d; }
+      .rule { stroke: #ff1f3d; stroke-width: 1.4; opacity: 0.85; }
       .fieldline { font-family: 'Courier New', monospace; font-size: 14px; }
       .label { fill: #e8e8e8; font-weight: bold; }
-      .value { fill: #9aa0a6; }
-      .prompt { font-family: 'Courier New', monospace; font-size: 15px; fill: #e8384f; }
-      .cursor { fill: #e8384f; animation: blink 1s steps(1) infinite; }
-      .promptcmd { font-family: 'Courier New', monospace; font-size: 15px; fill: #e8384f; white-space: pre; }
-      .promptcursor { fill: #e8384f; }
+      .value { fill: #ff5c73; }
+      .prompt { font-family: 'Courier New', monospace; font-size: 15px; fill: #ff1f3d; }
+      .cursor { fill: #ff1f3d; animation: blink 1s steps(1) infinite; }
+      .promptcmd { font-family: 'Courier New', monospace; font-size: 15px; fill: #ff1f3d; white-space: pre; }
+      .promptcursor { fill: #ff1f3d; }
       @keyframes promptClip0 { 0.0% { width: 0.0px; animation-timing-function: steps(24, jump-end); } 15.208% { width: 216.0px; animation-timing-function: steps(1, jump-end); } 23.921% { width: 216.0px; animation-timing-function: steps(24, jump-end); } 32.475% { width: 0.0px; animation-timing-function: steps(1, jump-end); } 100% { width: 0.0px; animation-timing-function: steps(1, jump-end); } }
       @keyframes promptClip1 { 0% { width: 0.0px; animation-timing-function: steps(1, jump-end); } 35.644% { width: 0.0px; animation-timing-function: steps(17, jump-end); } 46.416% { width: 153.0px; animation-timing-function: steps(1, jump-end); } 55.129% { width: 153.0px; animation-timing-function: steps(17, jump-end); } 61.188% { width: 0.0px; animation-timing-function: steps(1, jump-end); } 100% { width: 0.0px; animation-timing-function: steps(1, jump-end); } }
       @keyframes promptClip2 { 0% { width: 0.0px; animation-timing-function: steps(1, jump-end); } 64.356% { width: 0.0px; animation-timing-function: steps(24, jump-end); } 79.564% { width: 216.0px; animation-timing-function: steps(1, jump-end); } 88.277% { width: 216.0px; animation-timing-function: steps(24, jump-end); } 96.832% { width: 0.0px; animation-timing-function: steps(1, jump-end); } 100% { width: 0.0px; animation-timing-function: steps(1, jump-end); } }
@@ -70,16 +70,16 @@
       <text x="365.6" y="224" class="fieldline typewriter" style="animation-delay:0.95s"><tspan class="label">Repositories:</tspan> <tspan class="value">1</tspan></text>
       <text x="365.6" y="248" class="fieldline typewriter" style="animation-delay:1.04s"><tspan class="label">Stars:</tspan> <tspan class="value">0</tspan></text>
       <text x="365.6" y="272" class="fieldline typewriter" style="animation-delay:1.13s"><tspan class="label">Followers:</tspan> <tspan class="value">0</tspan></text>
-      <text x="365.6" y="296" class="fieldline typewriter" style="animation-delay:1.22s"><tspan class="label">Contributions:</tspan> <tspan class="value">13 (last year)</tspan></text>
+      <text x="365.6" y="296" class="fieldline typewriter" style="animation-delay:1.22s"><tspan class="label">Contributions:</tspan> <tspan class="value">14 (last year)</tspan></text>
       <text x="365.6" y="320" class="fieldline typewriter" style="animation-delay:1.31s"><tspan class="label">Languages:</tspan> <tspan class="value">Python</tspan></text>
   
       <rect x="365.6" y="358.0" width="20" height="20" rx="3" fill="#0b0b0f" class="swatch" style="animation-delay:1.40s" />
-      <rect x="393.6" y="358.0" width="20" height="20" rx="3" fill="#e8384f" class="swatch" style="animation-delay:1.45s" />
-      <rect x="421.6" y="358.0" width="20" height="20" rx="3" fill="#8b1e2d" class="swatch" style="animation-delay:1.50s" />
+      <rect x="393.6" y="358.0" width="20" height="20" rx="3" fill="#ff1f3d" class="swatch" style="animation-delay:1.45s" />
+      <rect x="421.6" y="358.0" width="20" height="20" rx="3" fill="#b3122a" class="swatch" style="animation-delay:1.50s" />
       <rect x="449.6" y="358.0" width="20" height="20" rx="3" fill="#5a5f66" class="swatch" style="animation-delay:1.55s" />
       <rect x="477.6" y="358.0" width="20" height="20" rx="3" fill="#9aa0a6" class="swatch" style="animation-delay:1.60s" />
       <rect x="505.6" y="358.0" width="20" height="20" rx="3" fill="#c9ccd1" class="swatch" style="animation-delay:1.65s" />
-      <rect x="533.6" y="358.0" width="20" height="20" rx="3" fill="#ff6b7d" class="swatch" style="animation-delay:1.70s" />
+      <rect x="533.6" y="358.0" width="20" height="20" rx="3" fill="#ff5c73" class="swatch" style="animation-delay:1.70s" />
       <rect x="561.6" y="358.0" width="20" height="20" rx="3" fill="#e8e8e8" class="swatch" style="animation-delay:1.75s" />
 
   <text x="34" y="428" class="prompt">┌──(luccasyk@github)-[~]</text>
