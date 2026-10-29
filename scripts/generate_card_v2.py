@@ -34,8 +34,8 @@ OUT_PATH = os.environ.get("OUT_PATH", "assets/profile.svg")
 # (&, <, >, ") are safe to use — everything is XML-escaped automatically.
 # ---------------------------------------------------------------------------
 PROFILE_FIELDS = [
-    ("Role", "análise e desenvolvimento de sistemas"),
-    ("Focus", "analista de seguros"),
+    ("Role", "systems analysis student"),
+    ("Focus", "insurance analyst"),
     #("Stack.Backend", "php, laravel, codeigniter"),
     #("Stack.Scripting", "python"),
     #("Stack.Database", "mysql"),
@@ -59,8 +59,8 @@ PALETTE = ["#2b2f36", "#ff5f56", "#3ddc84", "#ffd166", "#4d8cff",
 # next one starts — looping forever. Edit the list freely.
 # ---------------------------------------------------------------------------
 PROMPT_COMMANDS = [
-    "informatics student",
-    "junior web developer",
+    "systems analysis student",
+    "insurance analyst",
     "cybersecurity enthusiast",
 ]
 PROMPT_TYPE_SPEED = 0.08     # seconds per character while typing
