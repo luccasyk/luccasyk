@@ -46,12 +46,12 @@ PROFILE_FIELDS = [
     #("Contact.Telegram", "t.me/pangeran1337"),
 ]
 
-ACCENT = "#39ffb0"          # ascii art + header color
-# ACCENT = "#00b8ff"
-LABEL_COLOR = "#eafff5"     # bold field labels
-VALUE_COLOR = "#8fe6bd"     # field values
-PALETTE = ["#2b2f36", "#ff5f56", "#3ddc84", "#ffd166", "#4d8cff",
-           "#b16cff", "#39e0d0", "#e8e8e8"]
+ART_COLOR = "#e8e8e8"       # arte ASCII (branco, como na foto)
+ACCENT = "#e8384f"          # cabeçalho, linha, prompt
+LABEL_COLOR = "#e8e8e8"     # rótulos em negrito
+VALUE_COLOR = "#9aa0a6"     # valores
+PALETTE = ["#0b0b0f", "#e8384f", "#8b1e2d", "#5a5f66",
+           "#9aa0a6", "#c9ccd1", "#ff6b7d", "#e8e8e8"]
 
 # ---------------------------------------------------------------------------
 # Typing/deleting effect shown at the terminal prompt (after "$ "). Each
