@@ -417,7 +417,7 @@ def build_svg(art_rows, fields):
     return f'''<svg width="{W:.0f}" height="{H:.0f}" viewBox="0 0 {W:.0f} {H:.0f}" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
-      .art {{ font-family: 'Courier New', monospace; font-size: {CELL_H*0.82:.1f}px; fill: {ART_COLOR}; white-space: pre; }}
+      .art {{ font-family: 'Courier New', monospace; font-size: {CELL_H*0.82:.1f}px; fill: {ACCENT}; white-space: pre; }}
       .header {{ font-family: 'Courier New', monospace; font-size: 18px; font-weight: bold; fill: {ACCENT}; }}
       .rule {{ stroke: {ACCENT}; stroke-width: 1.4; opacity: 0.85; }}
       .fieldline {{ font-family: 'Courier New', monospace; font-size: 14px; }}
