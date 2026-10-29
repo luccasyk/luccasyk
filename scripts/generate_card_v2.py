@@ -27,7 +27,7 @@ random.seed()
 
 LOGIN = os.environ.get("GITHUB_LOGIN", "luccasyk")
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
-OUT_PATH = os.environ.get("OUT_PATH", "assets/profile.svg")
+OUT_PATH = os.environ.get("OUT_PATH", "assets/avatar.svg")
 
 # ---------------------------------------------------------------------------
 # Edit these to customize the field list on the right. Special characters
