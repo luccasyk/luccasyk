@@ -14,7 +14,7 @@ on:
       - main
 
     paths-ignore:
-      - 'assets/profile.svg'
+      - 'assets/profile_v2.svg'
 
 permissions:
   contents: write
@@ -36,12 +36,12 @@ jobs:
         env:
           GITHUB_LOGIN: luccasyk
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          OUT_PATH: assets/profile.svg
+          OUT_PATH: assets/profile_v2.svg
         run: python scripts/generate_card_v2.py
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add assets/profile.svg
+          git add assets/profile_v2.svg
           git diff --staged --quiet || git commit -m "chore: refresh ascii profile card"
           git push
